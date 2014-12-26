@@ -1,0 +1,9 @@
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe.config
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.pdb
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.SimpleInterestCalculatorUI.resources
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.Properties.Resources.resources
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.GenerateResource.Cache
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.exe
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.pdb
+H:\Taukir\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csprojResolveAssemblyReference.cache
